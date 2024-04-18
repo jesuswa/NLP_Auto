@@ -1,4 +1,11 @@
 开始记录个人代码收集（poacher）
+
 添加Ascend_env_install.md文件，主要时Ascend在安装时的注意事项。
 添加LLM收集汇总
 添加辅助看论文的网址：大模型选择（https://kimi.moonshot.cn/），论文阅读网站（https://readpaper.com/home）
+
+
+星星
+搜索页面：
+FreeAskInternet 是一个完全免费的、私有的和本地运行的搜索聚合器和答案，使用 MULTI LLM 生成，不需要 GPU。用户可以提出一个问题，系统将进行多引擎搜索，并将搜索结果组合到LLM中，并根据搜索结果生成答案。这一切都是免费使用的。
+copilot，开源 Perplexity
