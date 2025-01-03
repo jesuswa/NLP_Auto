@@ -1,0 +1,635 @@
+# 知识动态倒序
+
+[TOC]
+
+### 多进程的理解
+
+### 2024-01-01 Deepseek “AI 版拼多多”
+
+投资方：幻方
+
+应用：专注于构建基础技术而非商业应用，致力于开源其所有模型。
+
+过程：
+
+1. 多头潜在注意力 (MLA) 和稀疏混合专家 (DeepseekMoE) 等架构改进大大降低了推理成本，从而引发了中国开发者之间的价格战。
+2. 
+
+战略：以打造 [AGI](https://www.jdon.com/54903.html) 的雄心为基础。与之前的主题不同，Deepseek 的使命宣言没有提到[安全、竞争或人类的利害关系](https://www.jdon.com/70141.html)，而只是“用好奇心揭开 AGI 的奥秘”。因此，该实验室一直专注于研究可能改变游戏规则的架构和算法创新。
+
+影响：实惠的 API 费率，在中国掀起了价格战。
+
+
+
+
+
+### 2024-01-01 Agent汇总
+
+[slavakurilyak/awesome-ai-agents：300+ 代理 AI 资源的超棒列表](https://github.com/slavakurilyak/awesome-ai-agents)
+
+
+
+### 2024-01-01 HivisionIDPhotos轻量级的AI证件照
+
+⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+
+[Zeyi-Lin/HivisionIDPhotos: ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 (github.com)](https://github.com/Zeyi-Lin/HivisionIDPhotos)
+
+
+
+### 2024-01-01 关于RAG多模态专题进展
+
+Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering，https://arxiv.org/pdf/2412.20927，
+
+对应专题链接，https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAxMjc3MjkyMg==&action=getalbum&album_id=3724150715762409475&
+
+### 2024-01-01 openai o1模型参数疑似泄露
+
+关于openai o1模型参数疑似泄露。
+
+微软论文MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes，https://arxiv.org/pdf/2412.19260，指出GPT-4 ~1.76T，GPT-4o ~200B，GPT-4o mini ~8，Bo1 preview ~300B，o1 mini ~ 100B
+
+### 2024-01-01 2024年回顾文章
+
+老刘说NLP及大模型的2024年终总结—不悲不喜、继续前行
+
+https://mp.weixin.qq.com/s/kJzrB930nKk1UtpWWcRb7w
+
+2024年技术回顾。2025年开篇：技术及宏观角度回顾2024年大模型发展，
+
+https://mp.weixin.qq.com/s/IES-BnH2-OnjgT_jqMJDGA0
+
+https://simonwillison.net/2024/Dec/31/llms-in-2024/
+
+DeepSeek（深度求索）首席执行官梁文峰总结
+
+https://nrehiew.github.io/blog/2024/
+
+斯坦福大学教授李飞飞团队关于2024年人工智能发展报告总结
+
+https://mp.weixin.qq.com/s/3urig6uV4xWikMkOGir2Iw
+
+AI大模型年度十大关键发布丨亿欧年度总结
+
+https://www.iyiou.com/analysis/202412241086420
+
+2024年的AI时间线
+
+https://huggingface.co/spaces/reach-vb/2024-ai-timeline
+
+15款国内外主流大模型API价格大比拼
+
+https://www.explinks.com/blog/15-mainstream-large-model-apis-price-comparison-including-free-models-and-official-website-addresses/
+
+API大模型费用榜
+
+https://top.aibase.com/ranking/llmapi
+
+
+
+### 2024-01-01 开源的电子书阅读软件
+
+使用考虑：需要自己上传，相当于阅读器，读论文（PDF）目录没有
+
+关于开源项目进展，开源的电子书阅读软件，
+
+https://github.com/readest/readest
+支持EPUB, MOBI, KF8 (AZW3), FB2, CBZ, PDF，2025年，多读书。
+
+
+
+
+
+### 12-27 麦肯世界集团关于年轻一代
+
+ [附件](附件) 
+
+![78ea8e36da9dd47beddf62586cc29cf](C:\Users\Michael\Documents\WeChat Files\wxid_atcnrpzwty4q22\FileStorage\Temp\78ea8e36da9dd47beddf62586cc29cf.png)
+
+### 12-27 AI Agent投融介绍
+
+![018ed375f5fdc820b8b78ccaa881cff](C:\Users\Michael\Documents\WeChat Files\wxid_atcnrpzwty4q22\FileStorage\Temp\018ed375f5fdc820b8b78ccaa881cff.png)
+
+### 12-23 RWKV-7：大模型架构，长文本能力极强
+
+RWKV-7：极先进的大模型架构，长文本能力极强
+
+[RWKV-7：极先进的大模型架构，长文本能力极强](https://mp.weixin.qq.com/s/Wy5S_aCukeYFLdqWHOo8RQ)
+
+RWKV-7 是极先进的最新大模型架构，超越 attention / linear attention 范式，拥有强大的 in-context-learning（上下文学习）能力，可真正持续学习，在保持 100% RNN 的同时，拥有极强的长文本能力。
+
+
+
+
+
+### 12-20 Ollama 与 vLLM 部署大模型对比：哪个更合适？
+
+[Ollama 与 vLLM 部署大模型对比：哪个更合适？](https://mp.weixin.qq.com/s/cTH0ttwkxasQy18gBNRZSA)
+
+
+
+### 12-20 利用 OpenRLHF 学习 RLHF
+
+[授人以渔：巧用 o1 学 ppo](https://mp.weixin.qq.com/s/nCdpcIos-r-OkhjfBTdqTw)
+
+### 12-19 Megrez-3B-Omni: 首个端侧全模态理解开源模型
+
+[Megrez-3B-Omni: 首个端侧全模态理解开源模型](https://mp.weixin.qq.com/s/eZnyYmzKcTRLOiLJFlJUwg)
+
+
+
+### 12-19  AI报告
+
+产业观察，GenAI 年度2024 报告：https://pan.baidu.com/s/1cyUqdsJgt2ySRasfRXsOIw 提取码: p5rk
+飞书链接：https://zw73xyquvv.feishu.cn/wiki/G6RCwQsa1iR5TMkvWT4cLxi1nrb，看了下，有些信息量，可看看
+
+关于产业进展，谷歌2025Ai趋势报告，https://services.google.com/fh/files/misc/data_ai_trends_report.pdf
+
+文档处理进展，历史文献修复助手：预测受损历史文献的原始外观，帮助修复和保护历史文档资料: Predicting the Original Appearance of Damaged Historical Documents，https://arxiv.org/pdf/2412.11634，https://github.com/yeungchenwa/HDR
+
+开源工具进展，这个工具也不错，Markdown To Poster for将Markdown文本转换成海报: https://github.com/gcui-art/markdown-to-image
+
+关于AGent流程编排。Langflow ，https://docs.langflow.org/，在工作流编排的设计上有个很巧妙的地方，提供了无代码/低代码的 UI，但每个节点实际上对应一个 Python 文件。
+
+多模态RAG进展，再看多模态RAG进展：VisDoMRAG及DocVLM-OCR方案解读，https://mp.weixin.qq.com/s/yCSSY2fpVjTrHQDvfvMSog
+
+
+
+### 12-19  在通用场景上达到开源SOTA
+
+新开发了一个ocr的项目： https://github.com/shibing624/imgocr 
+
+基于PaddleOCR-v4-onnx模型（~14MB）推理，性能更高，可实现 CPU 上毫秒级的 OCR 精准预测，在通用场景上达到开源SOTA。
+
+
+已经封装为imgocr的包，无须安装paddlepaddle、paddleocr等深度学习库，只要onnxruntime就可以调用。
+
+![6392c31f4e4fd2fb78eb4cdc786a9c3](C:\Users\Michael\Documents\WeChat Files\wxid_atcnrpzwty4q22\FileStorage\Temp\6392c31f4e4fd2fb78eb4cdc786a9c3.png)
+
+
+
+### 12-19 文件查重
+
+[tianlian0/duplicate-check-sample: 文本查重SDK，可用于论文查重、标书查重、文档查重、作业查重、合同查重、防串标等场景。关联：duplicate check](https://github.com/tianlian0/duplicate-check-sample)
+
+
+
+
+
+### 12-17 大模型推理卡天梯
+
+5090可能明年发布32G版本， RTX 4090 快 60-70%，价格估计是:2500-3000美元
+
+<img src="C:\Users\Michael\Documents\WeChat Files\wxid_atcnrpzwty4q22\FileStorage\Temp\106762c19c0c408734503bfee29b3a4.jpg" alt="106762c19c0c408734503bfee29b3a4" style="zoom: 150%;" />
+
+
+
+### 12-17 关于openaiO1复现进展
+
+关于openaiO1复现进展，
+
+imitate, Explore, and Self-Improve: A Reproduction Report on Slow-thinking Reasoning Systems，
+
+https://arxiv.org/pdf/2412.09413，https://github.com/RUCAIBox/Slow_Thinking_with_LLMs，提出了 “模仿、探索和自我提升” 的框架，作为训练推理模型的主要技术手段。仅使用 1100 条蒸馏的长思维链数据作为种子数据，通过自我探索与改进就能够取得不错的效果，在数学奥林匹克数据集 AIME 达到了 46.7 的评分，在 MATH-OAI 上也达到了 87.4 的评分，在跨学科 GPQA 上也取得了 53.0 的评分。同样也是蒸馏套路，治标不治本。
+
+### 12-16 神级Prompt，直接把Claude强化成了满血o1。
+
+
+
+思维链对于大模型一定是会有正向加成的，这个从去年到现在，看到o1的成功后，一定不会有人会怀疑了。
+
+
+
+[17岁高中生写了个神级Prompt，直接把Claude强化成了满血o1。](https://mp.weixin.qq.com/s/IAKD0FfcYehs5FsDkLbTJQ)
+
+Prompt地址：
+
+https://github.com/richards199999/Thinking-Claude/tree/main
+
+### 12-11 OpenAI 12天直播【持续更~】
+
+OpenAI 12天连续发布会
+
+OpenAI Day1：o1满血版，200刀Pro会员！ 
+
+OpenAI Day2：支持微调o1, 核心技术竟更早来自字节跳动！「强化微调」技术分析 
+
+OpenAI Day3：Sora发布时隔298天，正式上线了。
+
+OpenAI Day4：最新功能Canvas，Canvas相当于一个内置Agent来帮助、指导ChatGPT进行更好的内容生成和修改，并且是自动触发的。
+
+OpenAI Day5：OpenAI的CEO奥特曼宣布ChatGPT已全面接入苹果，包括 iPhone, iPad 和 Mac，支持Apple Intelligence（**苹果智能**）的苹果设备即可开启ChatGPT功能。
+
+OpenAI Day6：多项创新功能，实现自然沟通；高级语音模式：实时视频通话、屏幕共享和图像上传；高级语音模式支持超过50种语言，9种逼真输出语音选项，且每种语音都有自己独特的语气和特征。
+
+OpenAI Day7：ChatGPT 中引入了“项目”的情况，现在允许用户上传文件、设置自定义指令并将对话组织到文件夹中。
+
+OpenAI Day8：搜索：实时搜索和高级语音，OpenAI对搜索的算法进行了深度优化，可在用户提出问题后获取实时内容（分钟级别），包括股票、新闻等；在高级语音模式下，用户可以与ChatGPT进行更自然的多轮搜索对话。
+
+OpenAI Day9：实时语音API，还发布了三个新模型+o1满血版API
+
+[OpenAI马拉松发布会Day9：不只有实时语音API，还发布了三个新模型+o1满血版API，同时大降价！](https://mp.weixin.qq.com/s/GUuCDePa1UKPfvCMF2v8IA)
+
+OpenAI Day10：电话功能，可以随时给GPT打电话，特殊的号码——1-800-CHATGPT（1-800-242-8478）　
+
+电话接入（仅限美国）： 通过简单的拨号，即使是不熟悉智能手机的老年人或没有稳定网络连接的人也能使用AI，每月有15分钟的免费额度。
+
+WhatsApp接入（全球）： 利用全球普及的WhatsApp平台，让世界各地的人都能方便地与AI互动。
+
+OpenAI Day11：桌面应用
+
+OpenAI Day12：o3 和 o3 mini
+
+最具突破性的是ARC-AGI测试。ARC Prize Foundation主席Greg Kamradt宣布，o3在高算力模式下取得了87.5%的成绩，首次突破了人类水平阈值（85%）。这一里程碑式的成绩，解决了困扰AI界长达五年的难题。
+
+### 12-10 日历打印网站
+
+快2025年了，分享几个日历打印网站：
+
+1、 Calendarpedia： www.calendarpedia.com，打印日历网站（国外网站），这个网站提供按照周/月/年的可打印日历WORD/EXCEL/PDF三种格式，可用于平常对工作日历使用。
+
+2、日历精灵：www.5ayufa.com，在线生成免费的各类日历模板，可选择农历，周数、横/竖版等信息，支持下载word、excel、PDF或者图片等格式，下载无水印广告。
+
+3、在线日历：notime.dev，简单纯粹的在线日历网站，打开网页，Ctrl+P，选择PDF可另存为PDF到电脑本地，显示农历，简洁实用。
+
+4、Calendar：calendar.best，免费下载、打印，可以按照每年，每半年，每月，每周等多颜色多格式多版本打印。
+
+
+
+
+
+### 12-6 国内前沿研究团队信息
+
+第一点：可以从前沿论文中获取人物信息
+
+第二点：研究团队信息
+
+清华系：
+
+知识工程研究院https://keg.cs.tsinghua.edu.cn/?page_id=30
+
+刘知远教授的研究团队https://nlp.csai.tsinghua.edu.cn/staff/
+
+第三点：
+
+
+
+### 12-6 29个文本转语音TTS开源工具
+
+1）TTS Maker：https://ttsmaker.com/zh-cn
+2）微软Azure：https://azure.microsoft.com/en-us/products/cognitive-services/text-to-speech/
+3）PaddleSpeech：https://github.com/PaddlePaddle/PaddleSpeech
+4）VoiceVox：https://github.com/VOICEVOX/voicevox
+5）TensorFlowTTS：https://github.com/TensorSpeech/TensorFlowTTS
+6）TTSKit：https://github.com/kuangdd/ttskit
+7）OpenTTS：https://github.com/synesthesiam/opentts
+8）eSpeak NG：https://github.com/espeak-ng/espeak-ng
+9）F5-TTS：https://github.com/SWivid/F5-TTS
+HuggingFace，https://huggingface.co/SWivid/F5-TTS，https://arxiv.org/pdf/2410.06885，https://huggingface.co/spaces/mrfakename/E2-F5-TTS
+10）Edge-TTS：https://github.com/rany2/edge-tts
+11）ChatTTS：https://github.com/2noise/ChatTTS
+12）ChatTTS-ui：https://github.com/jianchang512/ChatTTS-ui
+13）Seed-TTS：https://bytedancespeech.github.io/seedtts_tech_report/，https:/arxiv.org/pdf/2406.02430，https://github.com/BytedanceSpeech/seed-tts-eval/
+14）Fish Speech：https://github.com/fishaudio/fish-speech，https://fish.audio/zh-CN/
+15）GPT-SoVITS：https://github.com/RVC-Boss/GPTSoVITS
+16）OpenVoice：https://github.com/myshell-ai/OpenVoice，https://arxiv.org/pdf/2312.01479.pdf
+17）Parler-TTS ：https://github.com/huggingface/parler-tts
+18）FUNAudioLLM-CosyVoice：https://github.com/FunAudioLLM/CosyVoice
+19）VoiceCraft：https://github.com/jasonppy/VoiceCraft
+20）EmotiVoice：https://github.com/netease-youdao/EmotiVoice
+21）MetaVoice-1B：https://github.com/metavoiceio/metavoice-src
+22）Voice Engine：https://ai-bot.cn/openai-voice-engine/
+23）Bark：https://github.com/suno-ai/bark
+24）MaskGCT：https://hf-mirror.com/amphion/MaskGCT
+25）Coqui TTS：https://github.com/coqui-ai/tts，https://huggingface.co/spaces/coqui/xtts，https://tts.readthedocs.io/en/dev/models/xtts.html
+26）So-VITS-SVC：https://github.com/svc-develop-team/so-vits-svc
+27）Mocking Bird址：https://github.com/babysor/MockingBird，https://www.bilibili.com/video/BV17Q4y1B7mY
+28）Real-Time-Voice-Cloning：https://github.com/CorentinJ/Real-Time-Voice-Cloning
+29）voice-pro：https://github.com/abus-aikorea/voice-pro
+
+### 12-6 **24个语音到文本ASR开源项目**
+
+**1）Moonshine**
+
+由UsefulSensors公司推出开源的模型，开源tiny版本，参数量:27M,只支持英文语言;开源base版本，参数量:61M,只支持英文语言;更快的处理速度，Moonshine的处理速度比Whisper快1.7倍。对于10秒的短音频片段，处理速度可达Whisper的五倍。基于20w小时的语音样本训练而来。
+
+地址：https://github.com/usefulsensors/moonshine,https://hf-mirror.com/UsefulSensors/moonshine,https://arxiv.org/abs/2410.15608
+
+**2）Paraforme**
+
+由阿里达摩院出品的一个基础语音识别工具包，提供多种功能，包括语音识别（ASR）、语音端点检测（VAD）、标点恢复、语言模型、说话人验证、说话人分离和多人对话语音识别等。
+
+
+
+Paraformer语音识别-中文-通用-16k-离线-large-pytorch
+
+[Paraformer语音识别-中文-通用-16k-离线-large-pytorch · 模型库](https://www.modelscope.cn/models/iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch)
+
+
+
+地址：https://github.com/modelscope/FunASR,https://arxiv.org/abs/2206.08317,https://www.modelscope.cn/models/iic/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch/summary
+
+**3）Whisper-large-v3**
+
+由openai发布的一个预训练的自动语音识别（ASR）和语音翻译模型，在68万小时的标记数据上进行训练。
+
+openai/whisper-large-v3-turbo
+
+[openai/whisper-large-v3-turbo · Hugging Face](https://huggingface.co/openai/whisper-large-v3-turbo)
+
+地址：https://hf-mirror.com/openai/whisper-large-v3
+
+**4）SenseVoice**
+
+SenseVoice-Small提供5种语言(中文、英文、日语、韩语、粤语)的低延迟ASR(目前已开源)，与Whisper-small(已开源)和Whisper-large相比，SenseVoice-Small的性能分别快5倍和15倍以上。,SenseVoice-Large支持超过50种语言的高精度ASR。提供情感识别能力（例如高兴、悲伤、生气等），能够检测音频中的特定事件，如音乐、掌声和笑声等。
+
+地址：https://github.com/FunAudioLLM/SenseVoice,https://fun-audio-llm.github.io/pdf/FunAudioLLM.pdf,https://fun-audio-llm.github.io/,https://www.modelscope.cn/studios/iic/SenseVoice
+
+**5）Whisper-turbo**
+
+OpenAI重磅开源语言识别模型Whisper-turbo模型，是在lage-v3模型基础上微调的版本。模型更小，运行的速度更快。与原始模型相同，但解码层数从32减少到了4。turbo模型支持中文、英文在内的多种语言模型。
+
+地址：https://hf-mirror.com/openai/whisper-large-v3-turbo
+
+**6）Qwen2_Audio**
+
+Qwen系列多模态大模型，支持超过8种语言和方言，例如中文、英语、粤语、法语、意大利语、西班牙语、德语和日语。可直接做ASR。
+
+地址：https://github.com/QwenLM/Qwen2-audio,https://arxiv.org/abs/2407.107593,https://qwenlm.github.io/blog/qwen2-audio,https://hf-mirror.com/Qwen/Qwen2-Audio-7B-Instruct,https://www.modelscope.cn/studios/qwen/Qwen2-Audio-Instruct-Demo
+
+**7）FunASR**
+
+由阿里巴巴达摩院开发的一个开源自动语音识别(ASR)系统。
+
+地址：https://github.com/alibaba/FunASR
+
+**8）ESPnet**
+
+ESPnet 是一个端到端的语音处理工具包，功能包含文本转语音、语音翻译、语音增强、说话者二值化、口语理解等等。
+
+地址：https://github.com/espnet/espnet
+
+**9）DeepSpeech**
+
+嵌入式（离线、设备上）语音到文本引擎。
+
+地址：https://github.com/mozilla/DeepSpeech，https://deepspeech.readthedocs.io/en/r0.9/，https://linux.cn/article-14233-1.html
+
+**10）PaddleSpeech**
+
+开源、易用、多合一的语音处理工具包，包含语音识别、语音翻译（英-中）、文本-语音、标点恢复功能。
+
+地址：https://github.com/PaddlePaddle/PaddleSpeech
+
+**11）MASRMASR**
+
+中文普通话语音识别项目，同时兼容在线和离线识别
+
+地址：https://github.com/nobody132/masr，https://blog.csdn.net/HELLOWORLD2424/article/details/12366787
+
+**12）SpeechBrain**
+
+支持语音识别系统，说话人识别、鉴定和记录，语音增强，语音分离，语言识别，语言翻译等。支持语言：中文。
+
+地址：https://github.com/speechbrain/speechbrain
+
+**13）WeNetWeNet**
+
+更关注无监督自学习、设备端模型探索和优化。
+
+地址：https://github.com/wenet-e2e/wenet，https://arxiv.org/abs/2203.15455
+
+**14）ESPnet**
+
+端到端的语音处理工具包，功能包含文本转语音、语音翻译、语音增强、说话者二值化、口语理解等等。
+
+地址：https://github.com/espnet/espnet
+
+**15）ASRT**
+
+中文语音识别系统，在训练中使用了大量中文语音数据，将声音转录为中文拼音，并支持通过语言模型，将拼音序列转换为中文文本。
+
+地址：https://github.com/nl8590687/ASRT_SpeechRecognition
+
+**16）Massively Multilingual Speech**
+
+Meta开源，识别4000多种口头语言并生成1100多种语。
+
+地址：https://research.facebook.com/publications/scaling-speech-technology-to-1000-languages/，https://github.com/facebookresearch/fairseq/blob/main/examples/mms/README.md，https://ai.meta.com/blog/multilingual-model-speech-recognition
+
+**17）OpenSeq2Seq**
+
+由Nvidia开发，可进行转录，翻译，自动语音识别和情感分析。
+
+地址：https://github.com/NVIDIA/OpenSeq2Seq
+
+**18）Vosk**
+
+可以在多种设备上离线运行，包括Android、iOS和Raspberry Pi，支持20多种语言或方言，包括：英语、中文、葡萄牙语、波兰语、德语等，提供了小型语言模型，理想情况下，大约只有50MB。
+
+地址：https://github.com/alphacep/vosk-api
+
+**19）Tensorflow ASR**
+
+支持Conformer、ContextNet、DeepSpeech2和Jasper等方案。
+
+地址：https://github.com/TensorSpeech/TensorFlowASR
+
+**20）Athena**
+
+支持自动语音识别（ASR）、语音合成、语音检测和关键字定位等功能。
+
+地址：https://github.com/athena-team/athena
+
+**21）Flashlight ASR**
+
+由Facebook AI研究团队设计的开源语音识别工具包，使用C++编译。
+
+地址：https://github.com/flashlight/wav2letter
+
+**22）Reverb**
+
+在长语音识别上，官方比Whisper large-v3、NVIDIA Canary-1B优秀，基于20万小时人工转录英语数据上训练，在长语音识别方面优秀，特别适合播客、财报电话会议等场景。
+
+地址：https://github.com/revdotcom/reverb/tree/main/asr
+
+**23）KaldiTTS**
+
+应用于大学课程、语音研究和商业部署。
+
+地址：https://github.com/kaldi-asr/kaldi，https://kaldi-asr.org/
+
+**24）Coqui Transcripts**
+
+Deepspeech和Deepspeech2项目原先团队出品。
+
+地址：https://github.com/coqui-ai/STT
+
+
+
+
+
+### 11-27 虚拟人 数字人开源项目
+
+**1、Fay**
+
+地址：https://github.com/xszyou/Fay
+
+**2、Sadtalker**
+
+地址：https://sadtalker.github.io/，https://modelscope.cn/studios/CVstudio/cv_human_portrait
+
+**3、Hallo**
+
+地址：https://fudan-generative-vision.github.io/hallo/#/，https://modelscope.cn/studios/AI-ModelScope/Hallo
+
+**4、EchoMimic/_v2**
+
+地址：https://badtobest.github.io/echomimic，https://modelscope.cn/studios/BadToBest/BadToBest，https://antgroup.github.io/ai/echomimic_v2/，https://github.com/antgroup/echomimic_v2
+
+**5、Wav2Lip**
+
+地址：https://github.com/Rudrabha/Wav2Lip
+
+**6、MuseTalk**
+
+地址：https://github.com/TMElyralab/MuseTalk
+
+**7、LivePortrait**
+
+地址：https://github.com/KwaiVGI/LivePortrait
+
+
+
+### 11-25 DINO-X-IDEA 研究院推出的通用视觉大模型
+
+[DINO-X - IDEA 研究院推出的通用视觉大模型 | AI工具集](https://ai-bot.cn/dino-x/)
+
+##### DINO-X的项目地址
+
+顶目官网:deepdataspace.come
+arXiv技术论文:https://arxiv.org/pdf/2411.14347区
+
+##### DINO-X的应用场景
+
+1. 自动驾驶:在自动驾驶车辆中实时识别和理解道路环境，包括行人、车辆、交通标志等，提高安全性和反应能力。
+2. 智能安防:在监控系统中，检测和识别可疑行为、入侵者或其他安全威胁，提高监控的智能化水平。工业检测:在制造业中，用在质量控制，检测产品缺陷，确保生产线的高效和产品质量。
+3. 机器人视觉:集成到服务机器人和工业机器人中，帮助机器人更好地理解周围环境，提高其交互和操作能力。
+4. 季辅助视障人士:集成到助盲设备中，帮助视障人士更好地理解和导航周围环境。
+
+
+
+### 11-22 根据代码生成文档
+
+[writer：✍️ AI 驱动的文档编写器 - GitCode](https://gitcode.com/gh_mirrors/wr/writer/overview?utm_source=artical_gitcode&index=bottom&type=card&webUrl&isLogin=1)
+
+
+
+### 11-22 社区问题（chunking 的评估）
+
+不同的 chunking 方式，除了端到端评估 hitrate 和 mrr，有没有什么思路可以直接对分出来的 chunk 本身进行质量评估呢？
+
+目前尝试使用 LLM 直接写 prompt ，效果还行就是速度太慢了
+
+上个nli模型，上概率。
+
+chunk的质量，应该是跟答案的相关性，也就是经典的蕴含推断，chunk能多大概率推出来answer。
+
+我一开始的思路是用 perplexity 来评估一个 chunk 的质量，但是 perplexity 不是一个概率，不适合做指标，看样子完全无监督还是不太现实。
+
+chunk的质量是绝对的还是相对的，是相对于谁的，这个得想好，ppl是自身流畅度的问题，我个人认为这是相对的，相对于任务本身的。
+
+
+
+### 11-22 大模型入门的一个推荐路线，我想的，大家可以参考5步走
+
+- 学会llamafactory，自己微调一个模型；
+- 学会llamafactory中p-tuing,lora,full-fintune的微调，知道里面的参数含义及调优方法。学会llamafactory等多模态大模型的微调；
+- 接一个rag，跑一个ragflow，自己搭一个大模型问答系统；
+- 评估大模型问答系统，微调一些问题改写、引文生成的技能；
+
+
+
+
+
+### 11-19 LLM结合金融数据和新闻文章预测股票价格
+
+地址：https://mp.weixin.qq.com/s/6DLNW09BK0bRXK_OkvbRKw
+
+预测金融市场和股票价格变动
+
+| 因素     |                    |          |
+| -------- | ------------------ | -------- |
+| 公司表现 | 历史价格           | 行业事件 |
+| 人类因素 | 社交媒体和新闻报道 |          |
+
+**数据**
+
+结合财务数据（如财务报表）和文本新闻，使用预训练的大型语言模型（LLMs）进行市场运动预测。
+
+数据集包含20家高交易量公司的新闻文章、历史股价和财务报告数据。
+
+**技术**
+
+采用检索增强技术，将相关新闻片段与公司财务指标结合，使用零、二、四次示例设置提示LLMs。
+
+**总结**
+
+使用GPT-3、GPT-4、LLaMA-2和LLaMA-3等模型进行分类，预测股票价格变动，3个月和6个月的加权F1分数分别为58.5%和59.1%，马修斯相关系数为0.175。
+
+**语言模型在金融行业的应用**
+
+文本分类、语义分析和金融咨询等
+
+### 11-18 灵宝机器人
+
+
+
+### 11-18 Prompt Engnieer
+
+李继刚的prompt分享
+
+[专访"Prompt之神"李继刚 - 我想用20年时间，给世界留一句话。](https://mp.weixin.qq.com/s/JT2oOG2SYw2pDYEHlEmcyQ)
+
+
+
+### 11-18 有哪些分享的科研辅助工具：
+
+1、霞子：keyanxiazi.bepass.cn，这是一位中南大学博士很长时间建立的学术导航网站，旨在帮助科研人员提高科研效率。主要提供论文下载、学术和科研工具、个性化的学术资源推荐、科研经验分享、学术社区等。
+
+2、术语在线：www.termonline.cn，一个可以查询专业术语的在线网站，非常权威，内容更新也很及时。
+
+3、ChatPDFs：www.chatpdfs.cn，是一个先进的AI智能文档阅读软件，它能够快速帮助使用者阅读和理解文档内容，可以实时解答使用者的任何关于文档的问题。
+
+4、Deepl：www.deepl.com/translator，翻译工具，支持多语言之间的互译，对于大段的文字翻译很精准，同时也可以对文档进行翻译。
+
+5、SimpleTeX：simpletex.cn，公式识别，论文或科研必备！它可以将图片或扫描文档中的数学公式转换为LaTeX代码。识别后，支持以图片/MathML/LaTeX等格式输入到文档或排版软件中。 
+
+6、小木虫：muchong.com/bbs，非常好的一个科研交流平台。这个平台上面的信息非常全，有许多板块，包括考研考博经验、论文投稿、导师招生、基金申请等内容。
+
+### 昇腾服务器A300I驱动安装
+
+```
+/usr/local/Ascend/driver/lib64/driver
+
+/usr/local/Ascend/develop/lib64/
+
+echo 'export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/Ascend/driver/lib64/driver' >> ~/.bashrc source ~/.bashrc
+
+echo 'export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/Ascend/develop/lib64/' >> ~/.bashrc source ~/.bashrc
+
+source ~/.bashrc
+```
+
+### 如何选择适合业务需求的大模型类型？
+
+### 如何优化大模型的推理效率以应对高并发场景？
+
+### 如何应对大模型训练和推理中的数据隐私和安全问题？
+
+### 如何通过优化技术提升大模型的推理效率，以支持高并发请求？
+
+### 如何在实际业务场景中选择合适的大模型，并评估其性能和成本？
+
+### 如何应对大模型应用中的数据隐私、安全问题及其潜在风险？ 
+
