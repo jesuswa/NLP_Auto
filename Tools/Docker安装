@@ -1,1 +1,24 @@
+# 1. 更新源并安装依赖
+sudo apt update
+sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
+
+# 2. 添加Docker官方GPG密钥（国内建议用阿里云镜像）
+curl -fsSL https://mirrors.aliyun.com/docker-ce/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+
+# 3. 添加稳定版仓库
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://mirrors.aliyun.com/docker-ce/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+
+# 4. 安装Docker引擎
+sudo apt update
+sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+
+# 5. 启动并设置开机自启
+sudo systemctl start docker
+sudo systemctl enable docker
+
+
+
+
+
+
 
