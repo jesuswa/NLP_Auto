@@ -1,5 +1,38 @@
 开始记录个人代码收集（poacher）
 
+
+## 工具集
+1、大语言模型LLM
+https://modelscope.cn/my/overview
+2、大模型微调
+https://github.com/hiyouga/LLaMA-Factory/tree/main
+3、VM虚拟机概念
+
+4、
+5、
+6、
+7、
+8、
+9、
+10、
+11、Docker
+镜像官网：https://hub.docker.com/
+
+harbor仓库地址：https://github.com/goharbor/harbor
+Linux在线安装harbor镜像仓库（Centos）：https://izero.blog.csdn.net/article/details/126252956?fromshare=blogdetail&sharetype=blogdetail&sharerId=126252956&sharerefer=PC&sharesource=wanghan0526&sharefrom=from_link
+
+12、
+13、
+14、
+15、
+16、
+17、
+18、
+19、
+
+
+
+
 添加Ascend_env_install.md文件，主要时Ascend在安装时的注意事项。
 添加LLM收集汇总
 添加辅助看论文的网址：
@@ -11,6 +44,12 @@
 搜索页面：
 FreeAskInternet 是一个完全免费的、私有的和本地运行的搜索聚合器和答案，使用 MULTI LLM 生成，不需要 GPU。用户可以提出一个问题，系统将进行多引擎搜索，并将搜索结果组合到LLM中，并根据搜索结果生成答案。这一切都是免费使用的。
 copilot，开源 Perplexity
+
+
+
+
+
+
 
 
 
